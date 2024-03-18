@@ -1,0 +1,227 @@
+.header-title {
+    text-align: center;
+    font-size: 40px;
+    padding: 25px;
+    margin: 0;
+    color: white;
+    z-index: 7;
+    font-family: "Archivo Black";
+    font-style: normal;
+}
+
+.header {
+    background:#6f7666;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 6;
+}
+
+.main-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    right: 460px;
+    z-index: 2;
+    top: 675px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+
+  }
+
+.frist-year {
+    font-size: 25px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    bottom: -320px; /* Adjusted to create space below the previous element */
+    right: 463px;
+    z-index: 2;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.w-tank {
+    width: 810px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 5;
+    right: 440px;
+    top: 820px;   
+}
+
+.background-container {
+    background-image: url('camo-green.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    background-attachment: fixed;
+    z-index: 1;
+}
+
+
+.rounded-square {
+    background-color: #878f7c; /* Set the background color */
+    border-radius: 52px; /* Add border-radius for rounded corners */
+    height: 550px;
+    width: 760px;
+    /* margin: 0; */
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    top: 625px;
+    left: 100px;
+    opacity: 70%;
+}
+
+.rounded-square-two {
+    background-color: #878f7c;
+    border-radius: 52px;
+    height: 50px;
+    width: 350px;
+    /* margin: 0; */
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    left: 358px;
+    top: 1500px;
+    opacity: 70%;
+}
+
+
+
+.small-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+  right: 110px;
+    z-index: 2;
+   top: 270px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 20px;
+    
+}
+
+.second-year {
+    font-size: 25px;
+    color: white;
+    max-width: 700px;
+    margin: auto;
+    position: relative;
+    bottom: 294px;
+    z-index: 3;
+    right: -420px;
+    top: -770px;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.second-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    right: -420px;
+    z-index: 5;
+    bottom: 790px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+}
+
+.thid-year{
+    font-size: 25px;
+    color: white;
+    max-width: 700px;
+    margin: auto;
+    position: relative;
+    bottom: 494px;
+    z-index: 3;
+    right: -420px;
+    bottom: 60px;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.rounded-square-three {
+    background-color: #878f7c;
+    border-radius: 52px;
+    height: 950px;
+    width: 743px;
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    left: 1000px;
+    top: 224px;
+    opacity: 70%;
+}
+
+.Large-WWII {
+    font-size: 330px;
+    color: rgb(255, 191, 0);
+    max-width: 700px;
+    margin: auto;
+    position: relative;
+    z-index: 4;
+    right: 490px;
+    top: -1810px;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.Cruiser {
+    width: 613px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 5;
+    left: 395px;
+    top: -1996px;
+}
+
+.WWII-war {
+    width: 513px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 5;
+    left: -368px;
+    top: -2339px;
+}
+
+.army-people {
+    width: 613px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 5;
+    left: 395px;
+    top: -2522px;
+}

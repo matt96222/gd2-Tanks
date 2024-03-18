@@ -1,0 +1,248 @@
+.header-text {
+    text-align: center;
+    font-size: 40px;
+    padding: 25px;
+    margin: 0;
+    color: white;
+    z-index: 6;
+    font-family: "Archivo Black";
+    font-style: normal;
+}
+
+.header {
+    background:#6f7666;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 5;
+}
+
+.main-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    right: -400px;
+    z-index: 2;
+    top: 281px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+
+  }
+
+.header-two {
+    font-size: 25px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    bottom: -935px;
+    right: -405px;
+    z-index: 2;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.w-tank {
+    width: 700px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 3;
+    left: -357px;
+    top: -147px;   
+}
+
+.background-container {
+    background-image: url('camo-green.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    background-attachment: fixed;
+    z-index: 1;
+}
+
+
+.rounded-square {
+    background-color: #878f7c; /* Set the background color */
+    border-radius: 52px; /* Add border-radius for rounded corners */
+    height: 530px;
+    width: 740px;
+    /* margin: 0; */
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    top: 225px;
+    left: 980px;
+    opacity: 70%;
+}
+
+.rounded-square-two {
+    background-color: #878f7c;
+    border-radius: 52px;
+    height: 50px;
+    width: 364px;
+    /* margin: 0; */
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    top: 524px;
+    left: 290px;
+    opacity: 70%;
+}
+
+.small-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    left: -144px;
+    z-index: 2;
+   top: -758px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 20px;
+}
+
+
+.header-three {
+    font-size: 25px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    bottom: 352px;
+    right: -200px;
+    z-index: 2;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+
+.heavy-main-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    right: 233px;
+    z-index: 2;
+    bottom: -81px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+}
+
+.header-four {
+    font-size: 25px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    bottom: -76px; /* Adjusted to create space below the previous element */
+    right: 235px;
+    z-index: 2;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;  
+}
+
+.churchill-tank {
+    right: -504px;
+    bottom: 789px;
+    width: 514px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 3;
+ 
+}
+
+
+.Matilda-text{
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    right: -203px;
+    z-index: 2;
+    bottom: 38px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+}
+
+.rounded-square-three {
+    background-color: #878f7c; /* Set the background color */
+    border-radius: 52px; /* Add border-radius for rounded corners */
+    height: 530px;
+    width: 740px;
+    /* margin: 0; */
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    top: 816px;
+    left: 110px;
+    opacity: 70%;
+    height: 620px;
+}
+
+.rounded-square-four {
+    background-color: #878f7c; /* Set the background color */
+    border-radius: 52px; /* Add border-radius for rounded corners */
+    height: 530px;
+    width: 740px;
+    /* margin: 0; */
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    bottom: -532px;
+    left: 983px;
+    opacity: 70%;
+    height: 620px;
+}
+
+.Churchill-Mk {
+    right: -451px;
+    bottom: 1025px;
+    width: 538px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 3;
+
+}
+
+.helo {
+    right: 282px;
+    bottom: 1227px;
+    width: 582px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 3;
+
+}

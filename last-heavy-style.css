@@ -1,0 +1,226 @@
+.header-title {
+    text-align: center;
+    font-size: 40px;
+    padding: 25px;
+    margin: 0;
+    color: white;
+    z-index: 7;
+    font-family: "Archivo Black";
+    font-style: normal;
+}
+
+.header {
+    background:#6f7666;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 6;
+}
+
+.main-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    right: 470px;
+    z-index: 2;
+    top: 275px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+
+  }
+
+.header-two {
+    font-size: 25px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    bottom: 388px;
+    right: 470px;
+    z-index: 2;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.w-tank {
+    width: 900px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 5;
+    right: 420px;
+    top: -63px;   
+}
+
+.background-container {
+    background-image: url('camo-green.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    background-attachment: fixed;
+    z-index: 1;
+}
+
+
+.rounded-square {
+    background-color: #878f7c; /* Set the background color */
+    border-radius: 52px; /* Add border-radius for rounded corners */
+    height: 677px;
+    width: 760px;
+    /* margin: 0; */
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    top: 225px;
+    left: 100px;
+    opacity: 70%;
+}
+
+.rounded-square-two {
+    background-color: #878f7c;
+    border-radius: 52px;
+    height: 50px;
+    width: 253px;
+    /* margin: 0; */
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    right: 1180px;
+    top: 963px;
+    opacity: 70%;
+}
+
+
+
+.small-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px;
+    margin: auto;
+    position: relative;
+    right: 50px;
+    z-index: 4;
+    top: -258px;
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 20px;
+    
+}
+
+.hotchkiss-text {
+    font-size: 25px;
+    color: white;
+    max-width: 700px;
+    margin: auto;
+    position: relative;
+    bottom: 494px;
+    z-index: 3;
+    right: 470px;
+    top: -884px;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.second-text {
+    font-size: 16px;
+    color: white;
+    max-width: 700px; /* Adjusted to max-width for responsiveness */
+    margin: auto;
+    position: relative;
+    right: -430px;
+    z-index: 3;
+    top: -882px;
+
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+}
+
+.webley-title{
+    font-size: 25px;
+    color: white;
+    max-width: 700px;
+    margin: auto;
+    position: relative;
+    bottom: 494px;
+    z-index: 3;
+    left: 427px;
+    top: -1310px;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.weby-image {
+    width: 1070px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 5;
+    left: 384px;
+    top: -2554px;
+}
+
+.rounded-square-three {
+    background-color: #878f7c;
+    border-radius: 52px;
+    height: 1441px;
+    width: 743px;
+    padding: 0;
+    position: absolute;
+    z-index: 2;
+    left: 1000px;
+    top: 224px;
+    opacity: 70%;
+}
+
+.boat {
+    width: 723px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 5;
+    left: 418px;
+    top: -2808px;
+}
+
+.cent {
+    width: 729px;
+    height: auto;
+    margin: auto;
+    position: relative;
+    display: block;
+    padding: 120px 0 40px 0;
+    z-index: 2;
+    left: -398px;
+    top: -3149px;
+}
+
+.rounded-square-four {
+    background-color: #878f7c;
+    border-radius: 52px;
+    height: 377px;
+    width: 760px;
+    padding: 0;
+    position: absolute;
+    z-index: 1;
+    left: 101px;
+    top: 1283px;
+    opacity: 70%;
+}
