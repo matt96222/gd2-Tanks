@@ -10,9 +10,10 @@ body{
     margin: 0;
     color: white;
     z-index: 2;
-    font-family: "Archivo Black";
-    font-style: normal;
-    }
+    font-family: "Black Ops One";
+  font-weight: 400;
+  font-style: normal;
+}
     
 
 .header{
